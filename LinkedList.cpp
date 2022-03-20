@@ -8,5 +8,4 @@ struct Node
 };
 int main()
 {
-	cout << "hello";
 }
